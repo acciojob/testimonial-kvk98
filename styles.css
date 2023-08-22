@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.main {
+	padding: 10px;
+	background-color:#f5f5f5;
+}
+.testimonial {
+	padding:10px;
+	border: 1px soli gray;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px gray;
+}
+.author {
+	text-align:right;
+	font-style:italic;
+}
